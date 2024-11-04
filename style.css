@@ -108,14 +108,17 @@ background-repeat: no-repeat;
 
 }
 .bg-2{
-background-image: url(/public/slider2.jpg);
+/* background-image: url(/public/slider2.jpg); */
+background-image: url(/public/22.jpeg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
+transform: scaleX(-1);
 
 }
 .bg-3{
-background-image: url(/public/slider3.jpg);
+/* background-image: url(/public/slider3.jpg); */
+background-image: url(/public/1355.jpeg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
